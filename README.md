@@ -5,7 +5,8 @@ https://itch.io/jam/brackeys-3/rate/574393
 
 The one in this repository is the complete version
 
-<div style="text-align:center">![](images/VortexNoFondo.png)</div>
+![](images/VortexNoFondo.png)
+
 
 ![](images/VortexOctahedron.gif)
 
